@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-34547a403c.pmtxctx.cn/sitemap.xml
